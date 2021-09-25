@@ -27,4 +27,4 @@ The project should build out of the box with VS as long as you haven't done anyt
 At the time of writing, no. It allows you to _install_ multiple versions, but only one version can run at a time.
 
 ## Black version
- As of now opskepp is changing the theme to Black, I do not own this McMrARM ones this, The black version will release when done and if im not lazy enough I might add some more features.
+ As of now opskepp is changing the theme to Black, I do not own this McMrARM ones this, The black version will release when done and if im not lazy enough I might add some more features, None of the devolpers are working on this one I just wanted to make a black version for people.
